@@ -1,0 +1,4 @@
+#!/usr/bin/env python
+
+import extractor.pdf_extractor as ext
+ext.parse_pdf()
