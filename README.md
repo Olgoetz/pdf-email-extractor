@@ -3,7 +3,7 @@
 ## Introduction
 
 A very simple commandline tool to extract all email addresses from
-a pdf file.
+a pdf file to stoudt and to a text file.
 
 ## Getting started
 
